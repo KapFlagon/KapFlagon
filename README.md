@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - :hammer: I’m currently working on [KanbanBo](https://github.com/kapflagon/kanbanbo)
 - :books: I’m currently learning [OpenJavaFX](https://openjfx.io), [Godot game engine](https://godotengine.org/).
-
-![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon)
+<br/>
+![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon)](https://github.com/KapFlagon/github-readme-stats)
