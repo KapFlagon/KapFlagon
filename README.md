@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome :shipit:
 <!--
 **KapFlagon/KapFlagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://github.com/markdown-templates/markdown-emojis
 -->
 
-- 🔭 I’m currently working on [Kanbanbo](https://github.com/kapflagon/kanbanbo)
-- 🌱 I’m currently learning [open JavaFX](https://openjfx.io), [Godot game engine](https://godotengine.org/).
+- :hammer: I’m currently working on [KanbanBo](https://github.com/kapflagon/kanbanbo)
+- :books: I’m currently learning [OpenJavaFX](https://openjfx.io), [Godot game engine](https://godotengine.org/).
 
 ![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon)](https://github.com/KapFlagon/github-readme-stats)
