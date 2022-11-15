@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - https://github.com/markdown-templates/markdown-emojis
 -->
 
-![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon&layout=compact&theme=transparent)](https://github.com/KapFlagon/github-readme-stats)
+![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon&layout=compact&theme=algolia)](https://github.com/KapFlagon/github-readme-stats)
