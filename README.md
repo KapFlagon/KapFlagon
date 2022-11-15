@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - https://github.com/markdown-templates/markdown-emojis
 -->
 
-- :hammer: I’m currently working on [KanbanBo](https://github.com/kapflagon/kanbanbo)
-- :books: I’m currently learning [OpenJavaFX](https://openjfx.io), [Godot game engine](https://godotengine.org/).
-
-![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon)](https://github.com/KapFlagon/github-readme-stats)
+![KapFlagon's github stats](https://github-readme-stats.vercel.app/api?username=KapFlagon&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapFlagon&layout=compact&theme=transparent)](https://github.com/KapFlagon/github-readme-stats)
